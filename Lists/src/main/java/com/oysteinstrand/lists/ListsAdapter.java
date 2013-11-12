@@ -11,6 +11,9 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 import com.oysteinstrand.listItems.R;
+import com.oysteinstrand.lists.model.ItemList;
+import com.oysteinstrand.lists.model.ListItem;
+import com.oysteinstrand.lists.utils.Dialogs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -43,7 +46,7 @@ public class ListsAdapter extends BaseAdapter {
         for (ItemList category : categories) {
             items.add(category);
             for (ListItem listItem : listItems) {
-                if (listItem.category == category) {
+                if (listItem.list == category) {
                     items.add(listItem);
                 }
             }

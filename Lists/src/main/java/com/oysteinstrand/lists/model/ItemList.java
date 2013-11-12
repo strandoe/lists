@@ -1,4 +1,4 @@
-package com.oysteinstrand.lists;
+package com.oysteinstrand.lists.model;
 
 public class ItemList {
     public String name;

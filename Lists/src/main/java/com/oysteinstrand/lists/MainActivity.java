@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.oysteinstrand.listItems.R;
+import com.oysteinstrand.lists.utils.Dialogs;
 
 public class MainActivity extends Activity {
 

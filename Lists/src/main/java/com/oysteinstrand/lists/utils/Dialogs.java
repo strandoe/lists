@@ -1,4 +1,4 @@
-package com.oysteinstrand.lists;
+package com.oysteinstrand.lists.utils;
 
 import android.app.AlertDialog;
 import android.content.Context;

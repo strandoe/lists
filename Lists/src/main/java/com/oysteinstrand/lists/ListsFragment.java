@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.oysteinstrand.listItems.R;
+import com.oysteinstrand.lists.model.ItemList;
+import com.oysteinstrand.lists.model.ListItem;
 
 import de.timroes.android.listview.EnhancedListView;
 
