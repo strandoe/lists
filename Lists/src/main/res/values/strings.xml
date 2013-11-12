@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lists</string>
+    <string name="title_activity_main">Lists</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="new_category_title">New list</string>
+    <string name="list">List</string>
+    <string name="listItem">Item</string>
+    <string name="new_list_item_title">New item in \"%1$s\"</string>
+
+</resources>
